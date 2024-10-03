@@ -1,0 +1,218 @@
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\bertug\source\repos\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\bertug\Desktop\C#\UYGULAMALAR\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\semih\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\Mesafe Kütüphane\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-101-24\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\BİL-LAB-17\Desktop\2\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-17\Desktop\253\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\BİL-LAB-17\Desktop\66\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\SdWolq\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CopyComplete
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\Desktop\PROJELER\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe.config
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Kütüphane_Otomasyonu.pdb
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\K_t_phan.4A41EC9F.Up2Date
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.exe
+C:\Users\semih\OneDrive\Desktop\Yazılım\buu\Mesafe Kütüphaneeee,\Kütüphane_Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.pdb
